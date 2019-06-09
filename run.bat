@@ -1,0 +1,1 @@
+node out/botmain.js
